@@ -34,6 +34,6 @@ I am a junior backend developer. My coding philosophy revolves around finding cl
 
 ### 📫 Let's connect:
 
-* **LinkedIn:** [https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9-%D0%B1%D1%83%D0%B9%D0%BD%D0%B5%D0%B2%D0%B8%D1%87-04baaa365/]
+* **LinkedIn:** [https://www.linkedin.com/in/тимофей-буйневич-04baaa365/]
 * **X::** [https://x.com/Timofey148834]
 * **Email:** [timofey.buinevich@gmail.com]
