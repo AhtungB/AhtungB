@@ -1,39 +1,38 @@
-# Hi there! I'm Timofey 👋 
+# Hi there! I'm Timofey (aka Buvy) 👋 
 
-### Aspiring Python Backend Developer | Software Engineering Student
+### Backend Developer | Software Engineering Student
 
-I am a junior backend developer. My coding philosophy revolves around finding clear structure and building robust "engines" for applications. I don't shy away from complex requirements—on the contrary, the clearer the roadmap, the better I perform.
-
----
-
-### 🛠 Tech Stack:
-
-* **Languages:** Python (Core, OOP), C# (Academic foundation)
-* **Backend:** Django (currently learning)
-* **Databases:** SQL (PostgreSQL, SQLite)
-* **Tools:** Git, Bash, Docker (basics)
-* **Focus:** Process automation, system logic development
+I am a backend engineer focused on building robust architectures, clean system logic, and efficient data structures. My coding philosophy revolves around finding solid structure and creating reliable "engines" for applications. The more complex the logic and the clearer the roadmap, the better I perform.
 
 ---
 
-### 🚀 Currently working on:
+### 🛠 Tech Stack & Tools
 
-* **Hyperskill Python Path:** Intensively leveling up my backend architecture skills.
-* **Life Tracker:** A personal project for habit and productivity tracking.
-* **Algorithms & Data Structures:** Solving engineering challenges to ensure code is not just functional, but efficient.
-
----
-
-### 🧩 About Me:
-
-* **Mindset:** Engineer-executor. I thrive on building "under the hood" systems.
-* **Gaming:** Fan of atmospheric and automation-heavy games (Satisfactory, Minecraft, Skyrim, Terraria).
-* **Guiding Principle:** "1% daily improvement." I believe in the power of momentum and consistent rhythm.
+* **Languages:** Python (Core, OOP, Advanced Logic)
+* **Databases:** SQL (SQLite, MS SQL Server, PostgreSQL)
+* **Tools & OS:** Git, Bash, Linux, Docker (Basics)
+* **Core Focus:** System architecture, process automation, database optimization
 
 ---
 
-### 📫 Let's connect:
+### 🚀 Projects & Active Work
 
-* **LinkedIn:** [https://www.linkedin.com/in/тимофей-буйневич-04baaa365/]
-* **X::** [https://x.com/Timofey148834]
-* **Email:** [timofey.buinevich@gmail.com]
+* **Life Tracker:** Developing a digital productivity platform focused on goal tracking and personal optimization.
+* **Automation Automation:** Creating custom Python scripts for workflow optimization and document generation.
+* **CRM Systems:** Engineering account and schedule management systems for educational and practical tasks.
+
+---
+
+### 🧩 About Me
+
+* **Mindset:** Engineer-executor. I thrive on building "under the hood" systems and solid backend logic.
+* **Interests:** Big fan of complex automation and optimization systems
+* **Guiding Principle:** Consistency and deep focus. I believe in well-structured development rhythms.
+
+---
+
+### 📫 Connect with me
+
+* **LinkedIn:** [linkedin.com/in/timofey-buinevich](https://www.linkedin.com/in/timofey-buinevich-04baaa365/)
+* **X (Twitter):** [@buvy_dev](https://x.com/buvy_dev)
+* **Email:** [buinevich.dev@gmail.com](mailto:buinevich.dev@gmail.com)
