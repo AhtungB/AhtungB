@@ -35,4 +35,5 @@ I am a backend engineer focused on building robust architectures, clean system l
 
 * **LinkedIn:** [linkedin.com/in/timofey-buinevich](https://www.linkedin.com/in/timofey-buinevich-04baaa365/)
 * **X:** [@buvy_dev](https://x.com/buvy_dev)
+* **Discord:** `buvy_dev`
 * **Email:** [buinevich.dev@gmail.com](mailto:buinevich.dev@gmail.com)
