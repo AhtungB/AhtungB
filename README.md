@@ -1,4 +1,4 @@
-# Hi there! I'm Timofey (aka Buvy) 👋 
+# Hi there! I'm Timofey (Buvy) 👋 
 
 ### Backend Developer | Software Engineering Student
 
